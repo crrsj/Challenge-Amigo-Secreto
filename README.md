@@ -30,8 +30,6 @@ Instalação
 Para executar o projeto localmente:
 
 Clone este repositório:
-git clone 
+git clone https://github.com/crrsj/Challenge-Amigo-Secreto.git
 Navegue até o diretório do projeto:
-
-
 Abra o arquivo index.html no seu navegador.
